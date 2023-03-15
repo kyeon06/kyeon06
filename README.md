@@ -3,7 +3,10 @@
 </div>
 <div align=center>
 	<h3>👩‍💻 백엔드 개발자, 윤기연입니다:) 👩‍💻</h3>
-  <img src="https://img.shields.io/badge/Tistory-F36D5D?style=for-the-badge&logo=Tistory&logoColor=white">
+	<a href="https://hapsunny.tistory.com/">
+		<img src="https://img.shields.io/badge/Tistory-F36D5D?style=for-the-badge&logo=Tistory&logoColor=white">
+	</a>
+  
   <img src="https://img.shields.io/badge/Notion-F36D5D?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 <br>
