@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kiyeon%20Github!&fontSize=70" />	
 </div>
 <div align=center>
-	<h3>👩‍💻 현재 공부중인 백엔드 개발자입니다:) 👩‍💻</h3>
+	<h3>👩‍💻 끊임없이 성장하는 개발자:) 👩‍💻</h3>
 	<a href="https://hapsunny.tistory.com/">
 		<img src="https://img.shields.io/badge/Tistory-F36D5D?style=for-the-badge&logo=Tistory&logoColor=white">
 	</a>
