@@ -6,8 +6,6 @@
 	<a href="https://hapsunny.tistory.com/">
 		<img src="https://img.shields.io/badge/Tistory-F36D5D?style=for-the-badge&logo=Tistory&logoColor=white">
 	</a>
-  
-  <img src="https://img.shields.io/badge/Notion-F36D5D?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 <br>
 <div align=center>
